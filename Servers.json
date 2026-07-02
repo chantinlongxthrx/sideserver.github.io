@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-    "name": "xthrx's server",   //doesn't really matter unless you're sharing this server list with someone else
-    "address": "https://anisette-xthrx-server-v3.onrender.com"
+      "name": "xthrx's server",
+      "address": "https://anisette-xthrx-server-v3.onrender.com"
     },
     {
       "name": "SideStore",
